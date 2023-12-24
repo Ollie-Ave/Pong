@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Pong.Game": {
+      "commandName": "Project",
+      "environmentVariables": {
+      }
+    }
+  }
+}
